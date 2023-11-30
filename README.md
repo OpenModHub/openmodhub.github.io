@@ -1,6 +1,6 @@
 # openmods.github.io [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This is the website repository of the SciMods GitHub organization.
+This is the website repository of the OpenModHub GitHub organization.
 
 All our work is managed and collected here.
 
