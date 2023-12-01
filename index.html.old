@@ -42,28 +42,13 @@
 </nav>
 <div class="container mt-4">
   	<div class="my-5">
-        <p class="lead">Here, we collect open source designs of custom instrumentation for scientific instruments. We hope you will benefit from our work and will contribute with your own designs, and improvements on existing ones.</p>
+        <p class="lead">We collect open source designs of custom instrumentation for scientific instruments. We hope you will benefit from our work and will contribute with your own designs, and improvements on existing ones.</p>
     </div>
 
     <div class="album">
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 g-5">
-
-              <div class="col">
-                <div class="card shadow-sm">
-                    <img src="images/card_coming_soon.png" class="bd-placeholder-img card-img-top img-fluid" height="255" width="100%" >
-                    <div class="card-body">
-                    <p class="card-text">Stay tuned, we will publish a new <strong>mod</strong> soon. In the meantime, sign up for our newsletter! for notifications :)</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <a href="contact.html" class="btn btn-sm btn-outline-secondary">Subscribe</a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-            <div class="col">
+                <div class="col">
                     <div class="card shadow-sm">
                       <img src="images/card_AutoQCLPower.png" class="bd-placeholder-img card-img-top img-fluid" height="255" width="100%" >
                       <div class="card-body">
@@ -81,7 +66,11 @@
                     <div class="card shadow-sm">
                         <img src="images/card_TECstage.png" class="bd-placeholder-img card-img-top img-fluid" height="255" width="100%" >
                         <div class="card-body">
+<<<<<<< Updated upstream
+                        <p class="card-text">Thermoelectric heater/cooler sample stage implementation for NeaSCOPE microscopes.</p>
+=======
                         <p class="card-text">A thermoelectric heating/cooling stage. Control electronics, software and adaptation to a NeaSNOM sample stage.</p>
+>>>>>>> Stashed changes
                         <div class="d-flex justify-content-between align-items-center">
                           <div class="btn-group">
                             <a href="https://github.com/OpenModHub/TECStage/" class="btn btn-sm btn-outline-secondary">View</a>
@@ -95,10 +84,17 @@
                     <div class="card shadow-sm">
                         <img src="images/card_mirrorscan.png" class="bd-placeholder-img card-img-top img-fluid" height="255" width="100%" >
                         <div class="card-body">
+<<<<<<< Updated upstream
                         <p class="card-text">Application to map the focus spot of the parabolic mirror of neaSNOM microscopes</p>
                         <div class="d-flex justify-content-between align-items-center">
                           <div class="btn-group">
                             <a href="https://github.com/OpenModHub/MirrorScan/" class="btn btn-sm btn-outline-secondary">View</a>
+=======
+                        <p class="card-text">Stay tuned, we are preparing to share a new <strong>mod</strong> with you!</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                          <div class="btn-group">
+                            <button type="button" class="btn btn-sm btn-outline-secondary">Coming Soon!</button>
+>>>>>>> Stashed changes
                           </div>
                         </div>
                       </div>

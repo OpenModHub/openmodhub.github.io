@@ -1,4 +1,4 @@
-# openmods.github.io [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+# openmodhub.github.io [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This is the website repository of the OpenModHub GitHub organization.
 
